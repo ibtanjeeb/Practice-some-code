@@ -1,0 +1,13 @@
+H:\Practice Code\Practice-some-code\Binary search algo\Binary search algo\bin\Debug\netcoreapp3.1\Binary search algo.exe
+H:\Practice Code\Practice-some-code\Binary search algo\Binary search algo\bin\Debug\netcoreapp3.1\Binary search algo.deps.json
+H:\Practice Code\Practice-some-code\Binary search algo\Binary search algo\bin\Debug\netcoreapp3.1\Binary search algo.runtimeconfig.json
+H:\Practice Code\Practice-some-code\Binary search algo\Binary search algo\bin\Debug\netcoreapp3.1\Binary search algo.runtimeconfig.dev.json
+H:\Practice Code\Practice-some-code\Binary search algo\Binary search algo\bin\Debug\netcoreapp3.1\Binary search algo.dll
+H:\Practice Code\Practice-some-code\Binary search algo\Binary search algo\bin\Debug\netcoreapp3.1\Binary search algo.pdb
+H:\Practice Code\Practice-some-code\Binary search algo\Binary search algo\obj\Debug\netcoreapp3.1\Binary search algo.AssemblyInfoInputs.cache
+H:\Practice Code\Practice-some-code\Binary search algo\Binary search algo\obj\Debug\netcoreapp3.1\Binary search algo.AssemblyInfo.cs
+H:\Practice Code\Practice-some-code\Binary search algo\Binary search algo\obj\Debug\netcoreapp3.1\Binary search algo.csproj.CoreCompileInputs.cache
+H:\Practice Code\Practice-some-code\Binary search algo\Binary search algo\obj\Debug\netcoreapp3.1\Binary search algo.dll
+H:\Practice Code\Practice-some-code\Binary search algo\Binary search algo\obj\Debug\netcoreapp3.1\Binary search algo.pdb
+H:\Practice Code\Practice-some-code\Binary search algo\Binary search algo\obj\Debug\netcoreapp3.1\Binary search algo.genruntimeconfig.cache
+H:\Practice Code\Practice-some-code\Binary search algo\Binary search algo\obj\Debug\netcoreapp3.1\Binary search algo.csprojAssemblyReference.cache
