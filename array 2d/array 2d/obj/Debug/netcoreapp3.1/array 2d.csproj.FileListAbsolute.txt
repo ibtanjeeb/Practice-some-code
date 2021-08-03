@@ -1,0 +1,13 @@
+H:\Practice Code\Practice-some-code\array 2d\array 2d\bin\Debug\netcoreapp3.1\array 2d.exe
+H:\Practice Code\Practice-some-code\array 2d\array 2d\bin\Debug\netcoreapp3.1\array 2d.deps.json
+H:\Practice Code\Practice-some-code\array 2d\array 2d\bin\Debug\netcoreapp3.1\array 2d.runtimeconfig.json
+H:\Practice Code\Practice-some-code\array 2d\array 2d\bin\Debug\netcoreapp3.1\array 2d.runtimeconfig.dev.json
+H:\Practice Code\Practice-some-code\array 2d\array 2d\bin\Debug\netcoreapp3.1\array 2d.dll
+H:\Practice Code\Practice-some-code\array 2d\array 2d\bin\Debug\netcoreapp3.1\array 2d.pdb
+H:\Practice Code\Practice-some-code\array 2d\array 2d\obj\Debug\netcoreapp3.1\array 2d.csprojAssemblyReference.cache
+H:\Practice Code\Practice-some-code\array 2d\array 2d\obj\Debug\netcoreapp3.1\array 2d.AssemblyInfoInputs.cache
+H:\Practice Code\Practice-some-code\array 2d\array 2d\obj\Debug\netcoreapp3.1\array 2d.AssemblyInfo.cs
+H:\Practice Code\Practice-some-code\array 2d\array 2d\obj\Debug\netcoreapp3.1\array 2d.csproj.CoreCompileInputs.cache
+H:\Practice Code\Practice-some-code\array 2d\array 2d\obj\Debug\netcoreapp3.1\array 2d.dll
+H:\Practice Code\Practice-some-code\array 2d\array 2d\obj\Debug\netcoreapp3.1\array 2d.pdb
+H:\Practice Code\Practice-some-code\array 2d\array 2d\obj\Debug\netcoreapp3.1\array 2d.genruntimeconfig.cache

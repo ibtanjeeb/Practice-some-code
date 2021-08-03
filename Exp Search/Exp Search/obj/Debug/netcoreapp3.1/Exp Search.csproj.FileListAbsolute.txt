@@ -1,0 +1,13 @@
+H:\Practice Code\Practice-some-code\Exp Search\Exp Search\obj\Debug\netcoreapp3.1\Exp Search.csprojAssemblyReference.cache
+H:\Practice Code\Practice-some-code\Exp Search\Exp Search\obj\Debug\netcoreapp3.1\Exp Search.AssemblyInfoInputs.cache
+H:\Practice Code\Practice-some-code\Exp Search\Exp Search\obj\Debug\netcoreapp3.1\Exp Search.AssemblyInfo.cs
+H:\Practice Code\Practice-some-code\Exp Search\Exp Search\obj\Debug\netcoreapp3.1\Exp Search.csproj.CoreCompileInputs.cache
+H:\Practice Code\Practice-some-code\Exp Search\Exp Search\bin\Debug\netcoreapp3.1\Exp Search.exe
+H:\Practice Code\Practice-some-code\Exp Search\Exp Search\bin\Debug\netcoreapp3.1\Exp Search.deps.json
+H:\Practice Code\Practice-some-code\Exp Search\Exp Search\bin\Debug\netcoreapp3.1\Exp Search.runtimeconfig.json
+H:\Practice Code\Practice-some-code\Exp Search\Exp Search\bin\Debug\netcoreapp3.1\Exp Search.runtimeconfig.dev.json
+H:\Practice Code\Practice-some-code\Exp Search\Exp Search\bin\Debug\netcoreapp3.1\Exp Search.dll
+H:\Practice Code\Practice-some-code\Exp Search\Exp Search\bin\Debug\netcoreapp3.1\Exp Search.pdb
+H:\Practice Code\Practice-some-code\Exp Search\Exp Search\obj\Debug\netcoreapp3.1\Exp Search.dll
+H:\Practice Code\Practice-some-code\Exp Search\Exp Search\obj\Debug\netcoreapp3.1\Exp Search.pdb
+H:\Practice Code\Practice-some-code\Exp Search\Exp Search\obj\Debug\netcoreapp3.1\Exp Search.genruntimeconfig.cache
