@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\ReverseInt\ReverseInt\bin\Debug\netcoreapp3.1\ReverseInt.exe
+C:\Users\USER\source\repos\ReverseInt\ReverseInt\bin\Debug\netcoreapp3.1\ReverseInt.deps.json
+C:\Users\USER\source\repos\ReverseInt\ReverseInt\bin\Debug\netcoreapp3.1\ReverseInt.runtimeconfig.json
+C:\Users\USER\source\repos\ReverseInt\ReverseInt\bin\Debug\netcoreapp3.1\ReverseInt.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ReverseInt\ReverseInt\bin\Debug\netcoreapp3.1\ReverseInt.dll
+C:\Users\USER\source\repos\ReverseInt\ReverseInt\bin\Debug\netcoreapp3.1\ReverseInt.pdb
+C:\Users\USER\source\repos\ReverseInt\ReverseInt\obj\Debug\netcoreapp3.1\ReverseInt.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ReverseInt\ReverseInt\obj\Debug\netcoreapp3.1\ReverseInt.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ReverseInt\ReverseInt\obj\Debug\netcoreapp3.1\ReverseInt.AssemblyInfo.cs
+C:\Users\USER\source\repos\ReverseInt\ReverseInt\obj\Debug\netcoreapp3.1\ReverseInt.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ReverseInt\ReverseInt\obj\Debug\netcoreapp3.1\ReverseInt.dll
+C:\Users\USER\source\repos\ReverseInt\ReverseInt\obj\Debug\netcoreapp3.1\ReverseInt.pdb
+C:\Users\USER\source\repos\ReverseInt\ReverseInt\obj\Debug\netcoreapp3.1\ReverseInt.genruntimeconfig.cache
