@@ -1,0 +1,13 @@
+H:\Practice Code\Practice-some-code\Class Practice\Class Practice\bin\Debug\netcoreapp3.1\Class Practice.exe
+H:\Practice Code\Practice-some-code\Class Practice\Class Practice\bin\Debug\netcoreapp3.1\Class Practice.deps.json
+H:\Practice Code\Practice-some-code\Class Practice\Class Practice\bin\Debug\netcoreapp3.1\Class Practice.runtimeconfig.json
+H:\Practice Code\Practice-some-code\Class Practice\Class Practice\bin\Debug\netcoreapp3.1\Class Practice.runtimeconfig.dev.json
+H:\Practice Code\Practice-some-code\Class Practice\Class Practice\bin\Debug\netcoreapp3.1\Class Practice.dll
+H:\Practice Code\Practice-some-code\Class Practice\Class Practice\bin\Debug\netcoreapp3.1\Class Practice.pdb
+H:\Practice Code\Practice-some-code\Class Practice\Class Practice\obj\Debug\netcoreapp3.1\Class Practice.csprojAssemblyReference.cache
+H:\Practice Code\Practice-some-code\Class Practice\Class Practice\obj\Debug\netcoreapp3.1\Class Practice.AssemblyInfoInputs.cache
+H:\Practice Code\Practice-some-code\Class Practice\Class Practice\obj\Debug\netcoreapp3.1\Class Practice.AssemblyInfo.cs
+H:\Practice Code\Practice-some-code\Class Practice\Class Practice\obj\Debug\netcoreapp3.1\Class Practice.csproj.CoreCompileInputs.cache
+H:\Practice Code\Practice-some-code\Class Practice\Class Practice\obj\Debug\netcoreapp3.1\Class Practice.dll
+H:\Practice Code\Practice-some-code\Class Practice\Class Practice\obj\Debug\netcoreapp3.1\Class Practice.pdb
+H:\Practice Code\Practice-some-code\Class Practice\Class Practice\obj\Debug\netcoreapp3.1\Class Practice.genruntimeconfig.cache
