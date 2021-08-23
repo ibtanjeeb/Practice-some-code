@@ -4,19 +4,18 @@ using System.Text;
 
 namespace Class__7_Practice
 {
-    class Student
+    public class Student:Person
     {
-
-        public string Name { get; set; }
-        public DateTime Dateofbirth { get; set; }
+        public readonly string studentId = "";
+       
 
         private double cgpa;
-        public string Address { get; set; }
-        private readonly string studentId;
+        
+       
 
         public double Cgpa
 
-        {
+        { 
             get
             {
                 return cgpa;
@@ -25,7 +24,7 @@ namespace Class__7_Practice
         
                 set
             {
-                if (value >= 0)
+                if (value > 0)
                     cgpa = value;
             }
          }
@@ -37,13 +36,17 @@ namespace Class__7_Practice
 
         }
         public Student(string name,DateTime dateofrbirth,string adress)
+            : base("SD")
         {
+            
             Name = name;
      
-            Dateofbirth = dateofrbirth;
+            DateofBirth = dateofrbirth;
             Address = adress;
             cgpa = 0;
-            //studentId = name.ToLower().Substring(0, 2) + dateofrbirth.Year;
+           
+
+           
 
         }
         public void Upadatedetails(string name)
@@ -52,7 +55,7 @@ namespace Class__7_Practice
         }
         public void Upadatedetails(DateTime datetime)
         {
-            Dateofbirth = datetime;
+            DateofBirth = datetime;
         }
 
         public void Upadatedetails(string name,string adress)

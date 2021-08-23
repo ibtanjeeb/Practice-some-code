@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CommonCode;
+using System;
 
 namespace Class__7_Practice
 {
@@ -10,7 +11,7 @@ namespace Class__7_Practice
             var student = new Student();
 
             student.Name = "Tanjeeb";
-            student.Dateofbirth = new DateTime(1993, 7, 31);
+            student.DateofBirth = new DateTime(1993, 7, 31);
             student.Address = "Chittagong,Bangladesh";
             student.Cgpa = 3.14;
 
@@ -41,8 +42,18 @@ namespace Class__7_Practice
             t.print();
 
             Console.WriteLine(t);
+            var n = AreaCalculater.GetCircle(20.5);
+            Console.WriteLine(n);
 
+            var r= AreaCalculater.RecangleArea(10,20);
+            Console.WriteLine(r);
+            Course course = new Course();
 
+            course.Title = "C#";
+            course.Fees = 8000;
+
+            
+            
 
         }
 

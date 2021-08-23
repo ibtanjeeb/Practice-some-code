@@ -1,0 +1,4 @@
+H:\Practice Code\Practice-some-code\Class -7 Practice\CommonCode\obj\Debug\netstandard2.0\CommonCode.csprojAssemblyReference.cache
+H:\Practice Code\Practice-some-code\Class -7 Practice\CommonCode\obj\Debug\netstandard2.0\CommonCode.AssemblyInfoInputs.cache
+H:\Practice Code\Practice-some-code\Class -7 Practice\CommonCode\obj\Debug\netstandard2.0\CommonCode.AssemblyInfo.cs
+H:\Practice Code\Practice-some-code\Class -7 Practice\CommonCode\obj\Debug\netstandard2.0\CommonCode.csproj.CoreCompileInputs.cache

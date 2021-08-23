@@ -6,4 +6,8 @@
     <RootNamespace>Class__7_Practice</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CommonCode\CommonCode.csproj" />
+  </ItemGroup>
+
 </Project>
