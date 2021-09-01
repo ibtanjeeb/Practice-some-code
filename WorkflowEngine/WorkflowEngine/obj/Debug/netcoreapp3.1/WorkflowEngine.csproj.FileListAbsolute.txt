@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\WorkflowEngine\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.exe
+C:\Users\USER\source\repos\WorkflowEngine\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.deps.json
+C:\Users\USER\source\repos\WorkflowEngine\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.runtimeconfig.json
+C:\Users\USER\source\repos\WorkflowEngine\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.runtimeconfig.dev.json
+C:\Users\USER\source\repos\WorkflowEngine\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.dll
+C:\Users\USER\source\repos\WorkflowEngine\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.pdb
+C:\Users\USER\source\repos\WorkflowEngine\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\WorkflowEngine\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\WorkflowEngine\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.AssemblyInfo.cs
+C:\Users\USER\source\repos\WorkflowEngine\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WorkflowEngine\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.dll
+C:\Users\USER\source\repos\WorkflowEngine\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.pdb
+C:\Users\USER\source\repos\WorkflowEngine\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.genruntimeconfig.cache

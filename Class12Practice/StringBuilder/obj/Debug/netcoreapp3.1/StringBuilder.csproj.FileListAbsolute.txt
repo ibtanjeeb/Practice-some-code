@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Class12Practice\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.exe
+C:\Users\USER\source\repos\Class12Practice\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.deps.json
+C:\Users\USER\source\repos\Class12Practice\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.json
+C:\Users\USER\source\repos\Class12Practice\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Class12Practice\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.dll
+C:\Users\USER\source\repos\Class12Practice\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.pdb
+C:\Users\USER\source\repos\Class12Practice\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Class12Practice\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Class12Practice\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfo.cs
+C:\Users\USER\source\repos\Class12Practice\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Class12Practice\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.dll
+C:\Users\USER\source\repos\Class12Practice\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.pdb
+C:\Users\USER\source\repos\Class12Practice\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.genruntimeconfig.cache

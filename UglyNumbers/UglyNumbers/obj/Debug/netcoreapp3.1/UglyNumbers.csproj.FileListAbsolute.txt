@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\UglyNumbers\UglyNumbers\obj\Debug\netcoreapp3.1\UglyNumbers.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\UglyNumbers\UglyNumbers\obj\Debug\netcoreapp3.1\UglyNumbers.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\UglyNumbers\UglyNumbers\obj\Debug\netcoreapp3.1\UglyNumbers.AssemblyInfo.cs
+C:\Users\USER\source\repos\UglyNumbers\UglyNumbers\obj\Debug\netcoreapp3.1\UglyNumbers.csproj.CoreCompileInputs.cache

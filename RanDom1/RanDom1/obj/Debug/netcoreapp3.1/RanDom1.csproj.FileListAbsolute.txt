@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\RanDom1\RanDom1\bin\Debug\netcoreapp3.1\RanDom1.exe
+C:\Users\USER\source\repos\RanDom1\RanDom1\bin\Debug\netcoreapp3.1\RanDom1.deps.json
+C:\Users\USER\source\repos\RanDom1\RanDom1\bin\Debug\netcoreapp3.1\RanDom1.runtimeconfig.json
+C:\Users\USER\source\repos\RanDom1\RanDom1\bin\Debug\netcoreapp3.1\RanDom1.runtimeconfig.dev.json
+C:\Users\USER\source\repos\RanDom1\RanDom1\bin\Debug\netcoreapp3.1\RanDom1.dll
+C:\Users\USER\source\repos\RanDom1\RanDom1\bin\Debug\netcoreapp3.1\RanDom1.pdb
+C:\Users\USER\source\repos\RanDom1\RanDom1\obj\Debug\netcoreapp3.1\RanDom1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\RanDom1\RanDom1\obj\Debug\netcoreapp3.1\RanDom1.AssemblyInfo.cs
+C:\Users\USER\source\repos\RanDom1\RanDom1\obj\Debug\netcoreapp3.1\RanDom1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\RanDom1\RanDom1\obj\Debug\netcoreapp3.1\RanDom1.dll
+C:\Users\USER\source\repos\RanDom1\RanDom1\obj\Debug\netcoreapp3.1\RanDom1.pdb
+C:\Users\USER\source\repos\RanDom1\RanDom1\obj\Debug\netcoreapp3.1\RanDom1.genruntimeconfig.cache
+C:\Users\USER\source\repos\RanDom1\RanDom1\obj\Debug\netcoreapp3.1\RanDom1.csprojAssemblyReference.cache

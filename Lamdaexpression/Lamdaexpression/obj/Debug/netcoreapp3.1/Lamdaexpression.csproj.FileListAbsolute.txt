@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Lamdaexpression\Lamdaexpression\bin\Debug\netcoreapp3.1\Lamdaexpression.exe
+C:\Users\USER\source\repos\Lamdaexpression\Lamdaexpression\bin\Debug\netcoreapp3.1\Lamdaexpression.deps.json
+C:\Users\USER\source\repos\Lamdaexpression\Lamdaexpression\bin\Debug\netcoreapp3.1\Lamdaexpression.runtimeconfig.json
+C:\Users\USER\source\repos\Lamdaexpression\Lamdaexpression\bin\Debug\netcoreapp3.1\Lamdaexpression.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Lamdaexpression\Lamdaexpression\bin\Debug\netcoreapp3.1\Lamdaexpression.dll
+C:\Users\USER\source\repos\Lamdaexpression\Lamdaexpression\bin\Debug\netcoreapp3.1\Lamdaexpression.pdb
+C:\Users\USER\source\repos\Lamdaexpression\Lamdaexpression\obj\Debug\netcoreapp3.1\Lamdaexpression.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Lamdaexpression\Lamdaexpression\obj\Debug\netcoreapp3.1\Lamdaexpression.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lamdaexpression\Lamdaexpression\obj\Debug\netcoreapp3.1\Lamdaexpression.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lamdaexpression\Lamdaexpression\obj\Debug\netcoreapp3.1\Lamdaexpression.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lamdaexpression\Lamdaexpression\obj\Debug\netcoreapp3.1\Lamdaexpression.dll
+C:\Users\USER\source\repos\Lamdaexpression\Lamdaexpression\obj\Debug\netcoreapp3.1\Lamdaexpression.pdb
+C:\Users\USER\source\repos\Lamdaexpression\Lamdaexpression\obj\Debug\netcoreapp3.1\Lamdaexpression.genruntimeconfig.cache

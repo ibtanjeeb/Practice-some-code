@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Class12Practice\NullableAndAnonymous\bin\Debug\netcoreapp3.1\NullableAndAnonymous.exe
+C:\Users\USER\source\repos\Class12Practice\NullableAndAnonymous\bin\Debug\netcoreapp3.1\NullableAndAnonymous.deps.json
+C:\Users\USER\source\repos\Class12Practice\NullableAndAnonymous\bin\Debug\netcoreapp3.1\NullableAndAnonymous.runtimeconfig.json
+C:\Users\USER\source\repos\Class12Practice\NullableAndAnonymous\bin\Debug\netcoreapp3.1\NullableAndAnonymous.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Class12Practice\NullableAndAnonymous\bin\Debug\netcoreapp3.1\NullableAndAnonymous.dll
+C:\Users\USER\source\repos\Class12Practice\NullableAndAnonymous\bin\Debug\netcoreapp3.1\NullableAndAnonymous.pdb
+C:\Users\USER\source\repos\Class12Practice\NullableAndAnonymous\obj\Debug\netcoreapp3.1\NullableAndAnonymous.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Class12Practice\NullableAndAnonymous\obj\Debug\netcoreapp3.1\NullableAndAnonymous.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Class12Practice\NullableAndAnonymous\obj\Debug\netcoreapp3.1\NullableAndAnonymous.AssemblyInfo.cs
+C:\Users\USER\source\repos\Class12Practice\NullableAndAnonymous\obj\Debug\netcoreapp3.1\NullableAndAnonymous.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Class12Practice\NullableAndAnonymous\obj\Debug\netcoreapp3.1\NullableAndAnonymous.dll
+C:\Users\USER\source\repos\Class12Practice\NullableAndAnonymous\obj\Debug\netcoreapp3.1\NullableAndAnonymous.pdb
+C:\Users\USER\source\repos\Class12Practice\NullableAndAnonymous\obj\Debug\netcoreapp3.1\NullableAndAnonymous.genruntimeconfig.cache

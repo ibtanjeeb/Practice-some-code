@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Tanjeeb\Tanjeeb\bin\Debug\netcoreapp3.1\Tanjeeb.exe
+C:\Users\USER\source\repos\Tanjeeb\Tanjeeb\bin\Debug\netcoreapp3.1\Tanjeeb.deps.json
+C:\Users\USER\source\repos\Tanjeeb\Tanjeeb\bin\Debug\netcoreapp3.1\Tanjeeb.runtimeconfig.json
+C:\Users\USER\source\repos\Tanjeeb\Tanjeeb\bin\Debug\netcoreapp3.1\Tanjeeb.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Tanjeeb\Tanjeeb\bin\Debug\netcoreapp3.1\Tanjeeb.dll
+C:\Users\USER\source\repos\Tanjeeb\Tanjeeb\bin\Debug\netcoreapp3.1\Tanjeeb.pdb
+C:\Users\USER\source\repos\Tanjeeb\Tanjeeb\obj\Debug\netcoreapp3.1\Tanjeeb.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Tanjeeb\Tanjeeb\obj\Debug\netcoreapp3.1\Tanjeeb.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Tanjeeb\Tanjeeb\obj\Debug\netcoreapp3.1\Tanjeeb.AssemblyInfo.cs
+C:\Users\USER\source\repos\Tanjeeb\Tanjeeb\obj\Debug\netcoreapp3.1\Tanjeeb.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Tanjeeb\Tanjeeb\obj\Debug\netcoreapp3.1\Tanjeeb.dll
+C:\Users\USER\source\repos\Tanjeeb\Tanjeeb\obj\Debug\netcoreapp3.1\Tanjeeb.pdb
+C:\Users\USER\source\repos\Tanjeeb\Tanjeeb\obj\Debug\netcoreapp3.1\Tanjeeb.genruntimeconfig.cache

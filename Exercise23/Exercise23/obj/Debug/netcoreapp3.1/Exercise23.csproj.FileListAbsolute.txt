@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Exercise23\Exercise23\bin\Debug\netcoreapp3.1\Exercise23.exe
+C:\Users\USER\source\repos\Exercise23\Exercise23\bin\Debug\netcoreapp3.1\Exercise23.deps.json
+C:\Users\USER\source\repos\Exercise23\Exercise23\bin\Debug\netcoreapp3.1\Exercise23.runtimeconfig.json
+C:\Users\USER\source\repos\Exercise23\Exercise23\bin\Debug\netcoreapp3.1\Exercise23.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Exercise23\Exercise23\bin\Debug\netcoreapp3.1\Exercise23.dll
+C:\Users\USER\source\repos\Exercise23\Exercise23\bin\Debug\netcoreapp3.1\Exercise23.pdb
+C:\Users\USER\source\repos\Exercise23\Exercise23\obj\Debug\netcoreapp3.1\Exercise23.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Exercise23\Exercise23\obj\Debug\netcoreapp3.1\Exercise23.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Exercise23\Exercise23\obj\Debug\netcoreapp3.1\Exercise23.AssemblyInfo.cs
+C:\Users\USER\source\repos\Exercise23\Exercise23\obj\Debug\netcoreapp3.1\Exercise23.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Exercise23\Exercise23\obj\Debug\netcoreapp3.1\Exercise23.dll
+C:\Users\USER\source\repos\Exercise23\Exercise23\obj\Debug\netcoreapp3.1\Exercise23.pdb
+C:\Users\USER\source\repos\Exercise23\Exercise23\obj\Debug\netcoreapp3.1\Exercise23.genruntimeconfig.cache

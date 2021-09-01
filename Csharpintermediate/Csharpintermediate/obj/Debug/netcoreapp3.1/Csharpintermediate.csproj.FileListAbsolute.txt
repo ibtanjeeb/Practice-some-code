@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Csharpintermediate\Csharpintermediate\bin\Debug\netcoreapp3.1\Csharpintermediate.exe
+C:\Users\USER\source\repos\Csharpintermediate\Csharpintermediate\bin\Debug\netcoreapp3.1\Csharpintermediate.deps.json
+C:\Users\USER\source\repos\Csharpintermediate\Csharpintermediate\bin\Debug\netcoreapp3.1\Csharpintermediate.runtimeconfig.json
+C:\Users\USER\source\repos\Csharpintermediate\Csharpintermediate\bin\Debug\netcoreapp3.1\Csharpintermediate.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Csharpintermediate\Csharpintermediate\bin\Debug\netcoreapp3.1\Csharpintermediate.dll
+C:\Users\USER\source\repos\Csharpintermediate\Csharpintermediate\bin\Debug\netcoreapp3.1\Csharpintermediate.pdb
+C:\Users\USER\source\repos\Csharpintermediate\Csharpintermediate\obj\Debug\netcoreapp3.1\Csharpintermediate.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Csharpintermediate\Csharpintermediate\obj\Debug\netcoreapp3.1\Csharpintermediate.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Csharpintermediate\Csharpintermediate\obj\Debug\netcoreapp3.1\Csharpintermediate.AssemblyInfo.cs
+C:\Users\USER\source\repos\Csharpintermediate\Csharpintermediate\obj\Debug\netcoreapp3.1\Csharpintermediate.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Csharpintermediate\Csharpintermediate\obj\Debug\netcoreapp3.1\Csharpintermediate.dll
+C:\Users\USER\source\repos\Csharpintermediate\Csharpintermediate\obj\Debug\netcoreapp3.1\Csharpintermediate.pdb
+C:\Users\USER\source\repos\Csharpintermediate\Csharpintermediate\obj\Debug\netcoreapp3.1\Csharpintermediate.genruntimeconfig.cache

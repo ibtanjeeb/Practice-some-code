@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\StackoverflowPost\StackoverflowPost\bin\Debug\netcoreapp3.1\StackoverflowPost.exe
+C:\Users\USER\source\repos\StackoverflowPost\StackoverflowPost\bin\Debug\netcoreapp3.1\StackoverflowPost.deps.json
+C:\Users\USER\source\repos\StackoverflowPost\StackoverflowPost\bin\Debug\netcoreapp3.1\StackoverflowPost.runtimeconfig.json
+C:\Users\USER\source\repos\StackoverflowPost\StackoverflowPost\bin\Debug\netcoreapp3.1\StackoverflowPost.runtimeconfig.dev.json
+C:\Users\USER\source\repos\StackoverflowPost\StackoverflowPost\bin\Debug\netcoreapp3.1\StackoverflowPost.dll
+C:\Users\USER\source\repos\StackoverflowPost\StackoverflowPost\bin\Debug\netcoreapp3.1\StackoverflowPost.pdb
+C:\Users\USER\source\repos\StackoverflowPost\StackoverflowPost\obj\Debug\netcoreapp3.1\StackoverflowPost.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\StackoverflowPost\StackoverflowPost\obj\Debug\netcoreapp3.1\StackoverflowPost.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StackoverflowPost\StackoverflowPost\obj\Debug\netcoreapp3.1\StackoverflowPost.AssemblyInfo.cs
+C:\Users\USER\source\repos\StackoverflowPost\StackoverflowPost\obj\Debug\netcoreapp3.1\StackoverflowPost.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StackoverflowPost\StackoverflowPost\obj\Debug\netcoreapp3.1\StackoverflowPost.dll
+C:\Users\USER\source\repos\StackoverflowPost\StackoverflowPost\obj\Debug\netcoreapp3.1\StackoverflowPost.pdb
+C:\Users\USER\source\repos\StackoverflowPost\StackoverflowPost\obj\Debug\netcoreapp3.1\StackoverflowPost.genruntimeconfig.cache

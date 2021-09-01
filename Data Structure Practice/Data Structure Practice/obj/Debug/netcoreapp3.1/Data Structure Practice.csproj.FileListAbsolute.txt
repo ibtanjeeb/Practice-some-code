@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Data Structure Practice\Data Structure Practice\bin\Debug\netcoreapp3.1\Data Structure Practice.exe
+C:\Users\USER\source\repos\Data Structure Practice\Data Structure Practice\bin\Debug\netcoreapp3.1\Data Structure Practice.deps.json
+C:\Users\USER\source\repos\Data Structure Practice\Data Structure Practice\bin\Debug\netcoreapp3.1\Data Structure Practice.runtimeconfig.json
+C:\Users\USER\source\repos\Data Structure Practice\Data Structure Practice\bin\Debug\netcoreapp3.1\Data Structure Practice.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Data Structure Practice\Data Structure Practice\bin\Debug\netcoreapp3.1\Data Structure Practice.dll
+C:\Users\USER\source\repos\Data Structure Practice\Data Structure Practice\bin\Debug\netcoreapp3.1\Data Structure Practice.pdb
+C:\Users\USER\source\repos\Data Structure Practice\Data Structure Practice\obj\Debug\netcoreapp3.1\Data Structure Practice.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Data Structure Practice\Data Structure Practice\obj\Debug\netcoreapp3.1\Data Structure Practice.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Data Structure Practice\Data Structure Practice\obj\Debug\netcoreapp3.1\Data Structure Practice.AssemblyInfo.cs
+C:\Users\USER\source\repos\Data Structure Practice\Data Structure Practice\obj\Debug\netcoreapp3.1\Data Structure Practice.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Data Structure Practice\Data Structure Practice\obj\Debug\netcoreapp3.1\Data Structure Practice.dll
+C:\Users\USER\source\repos\Data Structure Practice\Data Structure Practice\obj\Debug\netcoreapp3.1\Data Structure Practice.pdb
+C:\Users\USER\source\repos\Data Structure Practice\Data Structure Practice\obj\Debug\netcoreapp3.1\Data Structure Practice.genruntimeconfig.cache

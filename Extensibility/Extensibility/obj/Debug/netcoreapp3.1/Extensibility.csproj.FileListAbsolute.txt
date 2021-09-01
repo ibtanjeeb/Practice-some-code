@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.exe
+C:\Users\USER\source\repos\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.deps.json
+C:\Users\USER\source\repos\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.runtimeconfig.json
+C:\Users\USER\source\repos\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.dll
+C:\Users\USER\source\repos\Extensibility\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.pdb
+C:\Users\USER\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.AssemblyInfo.cs
+C:\Users\USER\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.dll
+C:\Users\USER\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.pdb
+C:\Users\USER\source\repos\Extensibility\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.genruntimeconfig.cache

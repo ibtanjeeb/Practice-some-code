@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\EEnumm\EEnumm\bin\Debug\netcoreapp3.1\EEnumm.exe
+C:\Users\USER\source\repos\EEnumm\EEnumm\bin\Debug\netcoreapp3.1\EEnumm.deps.json
+C:\Users\USER\source\repos\EEnumm\EEnumm\bin\Debug\netcoreapp3.1\EEnumm.runtimeconfig.json
+C:\Users\USER\source\repos\EEnumm\EEnumm\bin\Debug\netcoreapp3.1\EEnumm.runtimeconfig.dev.json
+C:\Users\USER\source\repos\EEnumm\EEnumm\bin\Debug\netcoreapp3.1\EEnumm.dll
+C:\Users\USER\source\repos\EEnumm\EEnumm\bin\Debug\netcoreapp3.1\EEnumm.pdb
+C:\Users\USER\source\repos\EEnumm\EEnumm\obj\Debug\netcoreapp3.1\EEnumm.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\EEnumm\EEnumm\obj\Debug\netcoreapp3.1\EEnumm.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\EEnumm\EEnumm\obj\Debug\netcoreapp3.1\EEnumm.AssemblyInfo.cs
+C:\Users\USER\source\repos\EEnumm\EEnumm\obj\Debug\netcoreapp3.1\EEnumm.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\EEnumm\EEnumm\obj\Debug\netcoreapp3.1\EEnumm.dll
+C:\Users\USER\source\repos\EEnumm\EEnumm\obj\Debug\netcoreapp3.1\EEnumm.pdb
+C:\Users\USER\source\repos\EEnumm\EEnumm\obj\Debug\netcoreapp3.1\EEnumm.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Inaterfacing\Inaterfacing\bin\Debug\netcoreapp3.1\Inaterfacing.exe
+C:\Users\USER\source\repos\Inaterfacing\Inaterfacing\bin\Debug\netcoreapp3.1\Inaterfacing.deps.json
+C:\Users\USER\source\repos\Inaterfacing\Inaterfacing\bin\Debug\netcoreapp3.1\Inaterfacing.runtimeconfig.json
+C:\Users\USER\source\repos\Inaterfacing\Inaterfacing\bin\Debug\netcoreapp3.1\Inaterfacing.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Inaterfacing\Inaterfacing\bin\Debug\netcoreapp3.1\Inaterfacing.dll
+C:\Users\USER\source\repos\Inaterfacing\Inaterfacing\bin\Debug\netcoreapp3.1\Inaterfacing.pdb
+C:\Users\USER\source\repos\Inaterfacing\Inaterfacing\obj\Debug\netcoreapp3.1\Inaterfacing.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Inaterfacing\Inaterfacing\obj\Debug\netcoreapp3.1\Inaterfacing.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Inaterfacing\Inaterfacing\obj\Debug\netcoreapp3.1\Inaterfacing.AssemblyInfo.cs
+C:\Users\USER\source\repos\Inaterfacing\Inaterfacing\obj\Debug\netcoreapp3.1\Inaterfacing.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Inaterfacing\Inaterfacing\obj\Debug\netcoreapp3.1\Inaterfacing.dll
+C:\Users\USER\source\repos\Inaterfacing\Inaterfacing\obj\Debug\netcoreapp3.1\Inaterfacing.pdb
+C:\Users\USER\source\repos\Inaterfacing\Inaterfacing\obj\Debug\netcoreapp3.1\Inaterfacing.genruntimeconfig.cache

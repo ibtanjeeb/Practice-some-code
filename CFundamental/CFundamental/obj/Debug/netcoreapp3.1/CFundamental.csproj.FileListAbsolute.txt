@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\CFundamental\CFundamental\bin\Debug\netcoreapp3.1\CFundamental.exe
+C:\Users\USER\source\repos\CFundamental\CFundamental\bin\Debug\netcoreapp3.1\CFundamental.deps.json
+C:\Users\USER\source\repos\CFundamental\CFundamental\bin\Debug\netcoreapp3.1\CFundamental.runtimeconfig.json
+C:\Users\USER\source\repos\CFundamental\CFundamental\bin\Debug\netcoreapp3.1\CFundamental.runtimeconfig.dev.json
+C:\Users\USER\source\repos\CFundamental\CFundamental\bin\Debug\netcoreapp3.1\CFundamental.dll
+C:\Users\USER\source\repos\CFundamental\CFundamental\bin\Debug\netcoreapp3.1\CFundamental.pdb
+C:\Users\USER\source\repos\CFundamental\CFundamental\obj\Debug\netcoreapp3.1\CFundamental.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CFundamental\CFundamental\obj\Debug\netcoreapp3.1\CFundamental.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CFundamental\CFundamental\obj\Debug\netcoreapp3.1\CFundamental.AssemblyInfo.cs
+C:\Users\USER\source\repos\CFundamental\CFundamental\obj\Debug\netcoreapp3.1\CFundamental.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CFundamental\CFundamental\obj\Debug\netcoreapp3.1\CFundamental.dll
+C:\Users\USER\source\repos\CFundamental\CFundamental\obj\Debug\netcoreapp3.1\CFundamental.pdb
+C:\Users\USER\source\repos\CFundamental\CFundamental\obj\Debug\netcoreapp3.1\CFundamental.genruntimeconfig.cache

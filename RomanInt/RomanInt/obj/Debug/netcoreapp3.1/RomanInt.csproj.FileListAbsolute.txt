@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\RomanInt\RomanInt\bin\Debug\netcoreapp3.1\RomanInt.exe
+C:\Users\USER\source\repos\RomanInt\RomanInt\bin\Debug\netcoreapp3.1\RomanInt.deps.json
+C:\Users\USER\source\repos\RomanInt\RomanInt\bin\Debug\netcoreapp3.1\RomanInt.runtimeconfig.json
+C:\Users\USER\source\repos\RomanInt\RomanInt\bin\Debug\netcoreapp3.1\RomanInt.runtimeconfig.dev.json
+C:\Users\USER\source\repos\RomanInt\RomanInt\bin\Debug\netcoreapp3.1\RomanInt.dll
+C:\Users\USER\source\repos\RomanInt\RomanInt\bin\Debug\netcoreapp3.1\RomanInt.pdb
+C:\Users\USER\source\repos\RomanInt\RomanInt\obj\Debug\netcoreapp3.1\RomanInt.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\RomanInt\RomanInt\obj\Debug\netcoreapp3.1\RomanInt.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\RomanInt\RomanInt\obj\Debug\netcoreapp3.1\RomanInt.AssemblyInfo.cs
+C:\Users\USER\source\repos\RomanInt\RomanInt\obj\Debug\netcoreapp3.1\RomanInt.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\RomanInt\RomanInt\obj\Debug\netcoreapp3.1\RomanInt.dll
+C:\Users\USER\source\repos\RomanInt\RomanInt\obj\Debug\netcoreapp3.1\RomanInt.pdb
+C:\Users\USER\source\repos\RomanInt\RomanInt\obj\Debug\netcoreapp3.1\RomanInt.genruntimeconfig.cache

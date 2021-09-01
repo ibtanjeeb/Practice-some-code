@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\ConditionalState\ConditionalState\bin\Debug\netcoreapp3.1\ConditionalState.exe
+C:\Users\USER\source\repos\ConditionalState\ConditionalState\bin\Debug\netcoreapp3.1\ConditionalState.deps.json
+C:\Users\USER\source\repos\ConditionalState\ConditionalState\bin\Debug\netcoreapp3.1\ConditionalState.runtimeconfig.json
+C:\Users\USER\source\repos\ConditionalState\ConditionalState\bin\Debug\netcoreapp3.1\ConditionalState.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ConditionalState\ConditionalState\bin\Debug\netcoreapp3.1\ConditionalState.dll
+C:\Users\USER\source\repos\ConditionalState\ConditionalState\bin\Debug\netcoreapp3.1\ConditionalState.pdb
+C:\Users\USER\source\repos\ConditionalState\ConditionalState\obj\Debug\netcoreapp3.1\ConditionalState.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ConditionalState\ConditionalState\obj\Debug\netcoreapp3.1\ConditionalState.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ConditionalState\ConditionalState\obj\Debug\netcoreapp3.1\ConditionalState.AssemblyInfo.cs
+C:\Users\USER\source\repos\ConditionalState\ConditionalState\obj\Debug\netcoreapp3.1\ConditionalState.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ConditionalState\ConditionalState\obj\Debug\netcoreapp3.1\ConditionalState.dll
+C:\Users\USER\source\repos\ConditionalState\ConditionalState\obj\Debug\netcoreapp3.1\ConditionalState.pdb
+C:\Users\USER\source\repos\ConditionalState\ConditionalState\obj\Debug\netcoreapp3.1\ConditionalState.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Class12Practice\Tuples\bin\Debug\netcoreapp3.1\Tuples.exe
+C:\Users\USER\source\repos\Class12Practice\Tuples\bin\Debug\netcoreapp3.1\Tuples.deps.json
+C:\Users\USER\source\repos\Class12Practice\Tuples\bin\Debug\netcoreapp3.1\Tuples.runtimeconfig.json
+C:\Users\USER\source\repos\Class12Practice\Tuples\bin\Debug\netcoreapp3.1\Tuples.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Class12Practice\Tuples\bin\Debug\netcoreapp3.1\Tuples.dll
+C:\Users\USER\source\repos\Class12Practice\Tuples\bin\Debug\netcoreapp3.1\Tuples.pdb
+C:\Users\USER\source\repos\Class12Practice\Tuples\obj\Debug\netcoreapp3.1\Tuples.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Class12Practice\Tuples\obj\Debug\netcoreapp3.1\Tuples.AssemblyInfo.cs
+C:\Users\USER\source\repos\Class12Practice\Tuples\obj\Debug\netcoreapp3.1\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Class12Practice\Tuples\obj\Debug\netcoreapp3.1\Tuples.dll
+C:\Users\USER\source\repos\Class12Practice\Tuples\obj\Debug\netcoreapp3.1\Tuples.pdb
+C:\Users\USER\source\repos\Class12Practice\Tuples\obj\Debug\netcoreapp3.1\Tuples.genruntimeconfig.cache
+C:\Users\USER\source\repos\Class12Practice\Tuples\obj\Debug\netcoreapp3.1\Tuples.csprojAssemblyReference.cache

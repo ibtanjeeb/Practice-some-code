@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Added two numbetrr\Added two numbetrr\bin\Debug\netcoreapp3.1\Added two numbetrr.exe
+C:\Users\USER\source\repos\Added two numbetrr\Added two numbetrr\bin\Debug\netcoreapp3.1\Added two numbetrr.deps.json
+C:\Users\USER\source\repos\Added two numbetrr\Added two numbetrr\bin\Debug\netcoreapp3.1\Added two numbetrr.runtimeconfig.json
+C:\Users\USER\source\repos\Added two numbetrr\Added two numbetrr\bin\Debug\netcoreapp3.1\Added two numbetrr.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Added two numbetrr\Added two numbetrr\bin\Debug\netcoreapp3.1\Added two numbetrr.dll
+C:\Users\USER\source\repos\Added two numbetrr\Added two numbetrr\bin\Debug\netcoreapp3.1\Added two numbetrr.pdb
+C:\Users\USER\source\repos\Added two numbetrr\Added two numbetrr\obj\Debug\netcoreapp3.1\Added two numbetrr.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Added two numbetrr\Added two numbetrr\obj\Debug\netcoreapp3.1\Added two numbetrr.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Added two numbetrr\Added two numbetrr\obj\Debug\netcoreapp3.1\Added two numbetrr.AssemblyInfo.cs
+C:\Users\USER\source\repos\Added two numbetrr\Added two numbetrr\obj\Debug\netcoreapp3.1\Added two numbetrr.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Added two numbetrr\Added two numbetrr\obj\Debug\netcoreapp3.1\Added two numbetrr.dll
+C:\Users\USER\source\repos\Added two numbetrr\Added two numbetrr\obj\Debug\netcoreapp3.1\Added two numbetrr.pdb
+C:\Users\USER\source\repos\Added two numbetrr\Added two numbetrr\obj\Debug\netcoreapp3.1\Added two numbetrr.genruntimeconfig.cache

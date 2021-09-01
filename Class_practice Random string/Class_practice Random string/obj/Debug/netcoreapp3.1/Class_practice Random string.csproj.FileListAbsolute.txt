@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Class_practice Random string\Class_practice Random string\bin\Debug\netcoreapp3.1\Class_practice Random string.exe
+C:\Users\USER\source\repos\Class_practice Random string\Class_practice Random string\bin\Debug\netcoreapp3.1\Class_practice Random string.deps.json
+C:\Users\USER\source\repos\Class_practice Random string\Class_practice Random string\bin\Debug\netcoreapp3.1\Class_practice Random string.runtimeconfig.json
+C:\Users\USER\source\repos\Class_practice Random string\Class_practice Random string\bin\Debug\netcoreapp3.1\Class_practice Random string.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Class_practice Random string\Class_practice Random string\bin\Debug\netcoreapp3.1\Class_practice Random string.dll
+C:\Users\USER\source\repos\Class_practice Random string\Class_practice Random string\bin\Debug\netcoreapp3.1\Class_practice Random string.pdb
+C:\Users\USER\source\repos\Class_practice Random string\Class_practice Random string\obj\Debug\netcoreapp3.1\Class_practice Random string.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Class_practice Random string\Class_practice Random string\obj\Debug\netcoreapp3.1\Class_practice Random string.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Class_practice Random string\Class_practice Random string\obj\Debug\netcoreapp3.1\Class_practice Random string.AssemblyInfo.cs
+C:\Users\USER\source\repos\Class_practice Random string\Class_practice Random string\obj\Debug\netcoreapp3.1\Class_practice Random string.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Class_practice Random string\Class_practice Random string\obj\Debug\netcoreapp3.1\Class_practice Random string.dll
+C:\Users\USER\source\repos\Class_practice Random string\Class_practice Random string\obj\Debug\netcoreapp3.1\Class_practice Random string.pdb
+C:\Users\USER\source\repos\Class_practice Random string\Class_practice Random string\obj\Debug\netcoreapp3.1\Class_practice Random string.genruntimeconfig.cache

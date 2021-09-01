@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\ReplaceArray\ReplaceArray\bin\Debug\netcoreapp3.1\ReplaceArray.exe
+C:\Users\USER\source\repos\ReplaceArray\ReplaceArray\bin\Debug\netcoreapp3.1\ReplaceArray.deps.json
+C:\Users\USER\source\repos\ReplaceArray\ReplaceArray\bin\Debug\netcoreapp3.1\ReplaceArray.runtimeconfig.json
+C:\Users\USER\source\repos\ReplaceArray\ReplaceArray\bin\Debug\netcoreapp3.1\ReplaceArray.runtimeconfig.dev.json
+C:\Users\USER\source\repos\ReplaceArray\ReplaceArray\bin\Debug\netcoreapp3.1\ReplaceArray.dll
+C:\Users\USER\source\repos\ReplaceArray\ReplaceArray\bin\Debug\netcoreapp3.1\ReplaceArray.pdb
+C:\Users\USER\source\repos\ReplaceArray\ReplaceArray\obj\Debug\netcoreapp3.1\ReplaceArray.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ReplaceArray\ReplaceArray\obj\Debug\netcoreapp3.1\ReplaceArray.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ReplaceArray\ReplaceArray\obj\Debug\netcoreapp3.1\ReplaceArray.AssemblyInfo.cs
+C:\Users\USER\source\repos\ReplaceArray\ReplaceArray\obj\Debug\netcoreapp3.1\ReplaceArray.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ReplaceArray\ReplaceArray\obj\Debug\netcoreapp3.1\ReplaceArray.dll
+C:\Users\USER\source\repos\ReplaceArray\ReplaceArray\obj\Debug\netcoreapp3.1\ReplaceArray.pdb
+C:\Users\USER\source\repos\ReplaceArray\ReplaceArray\obj\Debug\netcoreapp3.1\ReplaceArray.genruntimeconfig.cache

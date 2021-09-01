@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Field\Field\bin\Debug\netcoreapp3.1\Field.exe
+C:\Users\USER\source\repos\Field\Field\bin\Debug\netcoreapp3.1\Field.deps.json
+C:\Users\USER\source\repos\Field\Field\bin\Debug\netcoreapp3.1\Field.runtimeconfig.json
+C:\Users\USER\source\repos\Field\Field\bin\Debug\netcoreapp3.1\Field.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Field\Field\bin\Debug\netcoreapp3.1\Field.dll
+C:\Users\USER\source\repos\Field\Field\bin\Debug\netcoreapp3.1\Field.pdb
+C:\Users\USER\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Field.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Field.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Field.AssemblyInfo.cs
+C:\Users\USER\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Field.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Field.dll
+C:\Users\USER\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Field.pdb
+C:\Users\USER\source\repos\Field\Field\obj\Debug\netcoreapp3.1\Field.genruntimeconfig.cache

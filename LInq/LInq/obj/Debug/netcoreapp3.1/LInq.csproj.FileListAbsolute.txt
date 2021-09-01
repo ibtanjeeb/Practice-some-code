@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\LInq\LInq\bin\Debug\netcoreapp3.1\LInq.exe
+C:\Users\USER\source\repos\LInq\LInq\bin\Debug\netcoreapp3.1\LInq.deps.json
+C:\Users\USER\source\repos\LInq\LInq\bin\Debug\netcoreapp3.1\LInq.runtimeconfig.json
+C:\Users\USER\source\repos\LInq\LInq\bin\Debug\netcoreapp3.1\LInq.runtimeconfig.dev.json
+C:\Users\USER\source\repos\LInq\LInq\bin\Debug\netcoreapp3.1\LInq.dll
+C:\Users\USER\source\repos\LInq\LInq\bin\Debug\netcoreapp3.1\LInq.pdb
+C:\Users\USER\source\repos\LInq\LInq\obj\Debug\netcoreapp3.1\LInq.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\LInq\LInq\obj\Debug\netcoreapp3.1\LInq.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LInq\LInq\obj\Debug\netcoreapp3.1\LInq.AssemblyInfo.cs
+C:\Users\USER\source\repos\LInq\LInq\obj\Debug\netcoreapp3.1\LInq.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LInq\LInq\obj\Debug\netcoreapp3.1\LInq.dll
+C:\Users\USER\source\repos\LInq\LInq\obj\Debug\netcoreapp3.1\LInq.pdb
+C:\Users\USER\source\repos\LInq\LInq\obj\Debug\netcoreapp3.1\LInq.genruntimeconfig.cache

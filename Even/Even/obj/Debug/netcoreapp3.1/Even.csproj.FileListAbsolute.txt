@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Even\Even\bin\Debug\netcoreapp3.1\Even.exe
+C:\Users\USER\source\repos\Even\Even\bin\Debug\netcoreapp3.1\Even.deps.json
+C:\Users\USER\source\repos\Even\Even\bin\Debug\netcoreapp3.1\Even.runtimeconfig.json
+C:\Users\USER\source\repos\Even\Even\bin\Debug\netcoreapp3.1\Even.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Even\Even\bin\Debug\netcoreapp3.1\Even.dll
+C:\Users\USER\source\repos\Even\Even\bin\Debug\netcoreapp3.1\Even.pdb
+C:\Users\USER\source\repos\Even\Even\obj\Debug\netcoreapp3.1\Even.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Even\Even\obj\Debug\netcoreapp3.1\Even.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Even\Even\obj\Debug\netcoreapp3.1\Even.AssemblyInfo.cs
+C:\Users\USER\source\repos\Even\Even\obj\Debug\netcoreapp3.1\Even.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Even\Even\obj\Debug\netcoreapp3.1\Even.dll
+C:\Users\USER\source\repos\Even\Even\obj\Debug\netcoreapp3.1\Even.pdb
+C:\Users\USER\source\repos\Even\Even\obj\Debug\netcoreapp3.1\Even.genruntimeconfig.cache

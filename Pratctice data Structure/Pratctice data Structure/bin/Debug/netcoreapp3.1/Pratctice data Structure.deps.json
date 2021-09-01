@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pratctice data Structure/1.0.0": {
+        "runtime": {
+          "Pratctice data Structure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pratctice data Structure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

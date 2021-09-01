@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\RomanIntegar\RomanIntegar\bin\Debug\netcoreapp3.1\RomanIntegar.exe
+C:\Users\USER\source\repos\RomanIntegar\RomanIntegar\bin\Debug\netcoreapp3.1\RomanIntegar.deps.json
+C:\Users\USER\source\repos\RomanIntegar\RomanIntegar\bin\Debug\netcoreapp3.1\RomanIntegar.runtimeconfig.json
+C:\Users\USER\source\repos\RomanIntegar\RomanIntegar\bin\Debug\netcoreapp3.1\RomanIntegar.runtimeconfig.dev.json
+C:\Users\USER\source\repos\RomanIntegar\RomanIntegar\bin\Debug\netcoreapp3.1\RomanIntegar.dll
+C:\Users\USER\source\repos\RomanIntegar\RomanIntegar\bin\Debug\netcoreapp3.1\RomanIntegar.pdb
+C:\Users\USER\source\repos\RomanIntegar\RomanIntegar\obj\Debug\netcoreapp3.1\RomanIntegar.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\RomanIntegar\RomanIntegar\obj\Debug\netcoreapp3.1\RomanIntegar.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\RomanIntegar\RomanIntegar\obj\Debug\netcoreapp3.1\RomanIntegar.AssemblyInfo.cs
+C:\Users\USER\source\repos\RomanIntegar\RomanIntegar\obj\Debug\netcoreapp3.1\RomanIntegar.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\RomanIntegar\RomanIntegar\obj\Debug\netcoreapp3.1\RomanIntegar.dll
+C:\Users\USER\source\repos\RomanIntegar\RomanIntegar\obj\Debug\netcoreapp3.1\RomanIntegar.pdb
+C:\Users\USER\source\repos\RomanIntegar\RomanIntegar\obj\Debug\netcoreapp3.1\RomanIntegar.genruntimeconfig.cache

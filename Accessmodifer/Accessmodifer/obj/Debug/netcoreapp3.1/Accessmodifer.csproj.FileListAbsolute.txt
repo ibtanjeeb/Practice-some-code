@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Accessmodifer\Accessmodifer\bin\Debug\netcoreapp3.1\Accessmodifer.exe
+C:\Users\USER\source\repos\Accessmodifer\Accessmodifer\bin\Debug\netcoreapp3.1\Accessmodifer.deps.json
+C:\Users\USER\source\repos\Accessmodifer\Accessmodifer\bin\Debug\netcoreapp3.1\Accessmodifer.runtimeconfig.json
+C:\Users\USER\source\repos\Accessmodifer\Accessmodifer\bin\Debug\netcoreapp3.1\Accessmodifer.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Accessmodifer\Accessmodifer\bin\Debug\netcoreapp3.1\Accessmodifer.dll
+C:\Users\USER\source\repos\Accessmodifer\Accessmodifer\bin\Debug\netcoreapp3.1\Accessmodifer.pdb
+C:\Users\USER\source\repos\Accessmodifer\Accessmodifer\obj\Debug\netcoreapp3.1\Accessmodifer.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Accessmodifer\Accessmodifer\obj\Debug\netcoreapp3.1\Accessmodifer.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Accessmodifer\Accessmodifer\obj\Debug\netcoreapp3.1\Accessmodifer.AssemblyInfo.cs
+C:\Users\USER\source\repos\Accessmodifer\Accessmodifer\obj\Debug\netcoreapp3.1\Accessmodifer.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Accessmodifer\Accessmodifer\obj\Debug\netcoreapp3.1\Accessmodifer.dll
+C:\Users\USER\source\repos\Accessmodifer\Accessmodifer\obj\Debug\netcoreapp3.1\Accessmodifer.pdb
+C:\Users\USER\source\repos\Accessmodifer\Accessmodifer\obj\Debug\netcoreapp3.1\Accessmodifer.genruntimeconfig.cache

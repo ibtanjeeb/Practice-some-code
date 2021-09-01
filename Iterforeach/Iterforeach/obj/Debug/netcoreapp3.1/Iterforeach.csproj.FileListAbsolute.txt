@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Iterforeach\Iterforeach\bin\Debug\netcoreapp3.1\Iterforeach.exe
+C:\Users\USER\source\repos\Iterforeach\Iterforeach\bin\Debug\netcoreapp3.1\Iterforeach.deps.json
+C:\Users\USER\source\repos\Iterforeach\Iterforeach\bin\Debug\netcoreapp3.1\Iterforeach.runtimeconfig.json
+C:\Users\USER\source\repos\Iterforeach\Iterforeach\bin\Debug\netcoreapp3.1\Iterforeach.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Iterforeach\Iterforeach\bin\Debug\netcoreapp3.1\Iterforeach.dll
+C:\Users\USER\source\repos\Iterforeach\Iterforeach\bin\Debug\netcoreapp3.1\Iterforeach.pdb
+C:\Users\USER\source\repos\Iterforeach\Iterforeach\obj\Debug\netcoreapp3.1\Iterforeach.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Iterforeach\Iterforeach\obj\Debug\netcoreapp3.1\Iterforeach.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Iterforeach\Iterforeach\obj\Debug\netcoreapp3.1\Iterforeach.AssemblyInfo.cs
+C:\Users\USER\source\repos\Iterforeach\Iterforeach\obj\Debug\netcoreapp3.1\Iterforeach.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Iterforeach\Iterforeach\obj\Debug\netcoreapp3.1\Iterforeach.dll
+C:\Users\USER\source\repos\Iterforeach\Iterforeach\obj\Debug\netcoreapp3.1\Iterforeach.pdb
+C:\Users\USER\source\repos\Iterforeach\Iterforeach\obj\Debug\netcoreapp3.1\Iterforeach.genruntimeconfig.cache

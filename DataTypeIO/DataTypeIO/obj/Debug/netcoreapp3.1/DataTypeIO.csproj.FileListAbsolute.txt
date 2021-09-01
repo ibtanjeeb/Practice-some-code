@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\DataTypeIO\DataTypeIO\bin\Debug\netcoreapp3.1\DataTypeIO.exe
+C:\Users\USER\source\repos\DataTypeIO\DataTypeIO\bin\Debug\netcoreapp3.1\DataTypeIO.deps.json
+C:\Users\USER\source\repos\DataTypeIO\DataTypeIO\bin\Debug\netcoreapp3.1\DataTypeIO.runtimeconfig.json
+C:\Users\USER\source\repos\DataTypeIO\DataTypeIO\bin\Debug\netcoreapp3.1\DataTypeIO.runtimeconfig.dev.json
+C:\Users\USER\source\repos\DataTypeIO\DataTypeIO\bin\Debug\netcoreapp3.1\DataTypeIO.dll
+C:\Users\USER\source\repos\DataTypeIO\DataTypeIO\bin\Debug\netcoreapp3.1\DataTypeIO.pdb
+C:\Users\USER\source\repos\DataTypeIO\DataTypeIO\obj\Debug\netcoreapp3.1\DataTypeIO.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\DataTypeIO\DataTypeIO\obj\Debug\netcoreapp3.1\DataTypeIO.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DataTypeIO\DataTypeIO\obj\Debug\netcoreapp3.1\DataTypeIO.AssemblyInfo.cs
+C:\Users\USER\source\repos\DataTypeIO\DataTypeIO\obj\Debug\netcoreapp3.1\DataTypeIO.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DataTypeIO\DataTypeIO\obj\Debug\netcoreapp3.1\DataTypeIO.dll
+C:\Users\USER\source\repos\DataTypeIO\DataTypeIO\obj\Debug\netcoreapp3.1\DataTypeIO.pdb
+C:\Users\USER\source\repos\DataTypeIO\DataTypeIO\obj\Debug\netcoreapp3.1\DataTypeIO.genruntimeconfig.cache

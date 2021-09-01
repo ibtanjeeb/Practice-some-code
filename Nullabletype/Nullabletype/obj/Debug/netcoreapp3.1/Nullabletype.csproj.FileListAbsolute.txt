@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Nullabletype\Nullabletype\bin\Debug\netcoreapp3.1\Nullabletype.exe
+C:\Users\USER\source\repos\Nullabletype\Nullabletype\bin\Debug\netcoreapp3.1\Nullabletype.deps.json
+C:\Users\USER\source\repos\Nullabletype\Nullabletype\bin\Debug\netcoreapp3.1\Nullabletype.runtimeconfig.json
+C:\Users\USER\source\repos\Nullabletype\Nullabletype\bin\Debug\netcoreapp3.1\Nullabletype.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Nullabletype\Nullabletype\bin\Debug\netcoreapp3.1\Nullabletype.dll
+C:\Users\USER\source\repos\Nullabletype\Nullabletype\bin\Debug\netcoreapp3.1\Nullabletype.pdb
+C:\Users\USER\source\repos\Nullabletype\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Nullabletype\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Nullabletype\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.AssemblyInfo.cs
+C:\Users\USER\source\repos\Nullabletype\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Nullabletype\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.dll
+C:\Users\USER\source\repos\Nullabletype\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.pdb
+C:\Users\USER\source\repos\Nullabletype\Nullabletype\obj\Debug\netcoreapp3.1\Nullabletype.genruntimeconfig.cache

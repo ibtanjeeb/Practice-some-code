@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Class12Practice\parameter\bin\Debug\netcoreapp3.1\parameter.exe
+C:\Users\USER\source\repos\Class12Practice\parameter\bin\Debug\netcoreapp3.1\parameter.deps.json
+C:\Users\USER\source\repos\Class12Practice\parameter\bin\Debug\netcoreapp3.1\parameter.runtimeconfig.json
+C:\Users\USER\source\repos\Class12Practice\parameter\bin\Debug\netcoreapp3.1\parameter.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Class12Practice\parameter\bin\Debug\netcoreapp3.1\parameter.dll
+C:\Users\USER\source\repos\Class12Practice\parameter\bin\Debug\netcoreapp3.1\parameter.pdb
+C:\Users\USER\source\repos\Class12Practice\parameter\obj\Debug\netcoreapp3.1\parameter.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Class12Practice\parameter\obj\Debug\netcoreapp3.1\parameter.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Class12Practice\parameter\obj\Debug\netcoreapp3.1\parameter.AssemblyInfo.cs
+C:\Users\USER\source\repos\Class12Practice\parameter\obj\Debug\netcoreapp3.1\parameter.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Class12Practice\parameter\obj\Debug\netcoreapp3.1\parameter.dll
+C:\Users\USER\source\repos\Class12Practice\parameter\obj\Debug\netcoreapp3.1\parameter.pdb
+C:\Users\USER\source\repos\Class12Practice\parameter\obj\Debug\netcoreapp3.1\parameter.genruntimeconfig.cache

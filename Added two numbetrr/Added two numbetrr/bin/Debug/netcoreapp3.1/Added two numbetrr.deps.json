@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Added two numbetrr/1.0.0": {
+        "runtime": {
+          "Added two numbetrr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Added two numbetrr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

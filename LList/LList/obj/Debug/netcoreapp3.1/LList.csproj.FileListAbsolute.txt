@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\LList\LList\bin\Debug\netcoreapp3.1\LList.exe
+C:\Users\USER\source\repos\LList\LList\bin\Debug\netcoreapp3.1\LList.deps.json
+C:\Users\USER\source\repos\LList\LList\bin\Debug\netcoreapp3.1\LList.runtimeconfig.json
+C:\Users\USER\source\repos\LList\LList\bin\Debug\netcoreapp3.1\LList.runtimeconfig.dev.json
+C:\Users\USER\source\repos\LList\LList\bin\Debug\netcoreapp3.1\LList.dll
+C:\Users\USER\source\repos\LList\LList\bin\Debug\netcoreapp3.1\LList.pdb
+C:\Users\USER\source\repos\LList\LList\obj\Debug\netcoreapp3.1\LList.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\LList\LList\obj\Debug\netcoreapp3.1\LList.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\LList\LList\obj\Debug\netcoreapp3.1\LList.AssemblyInfo.cs
+C:\Users\USER\source\repos\LList\LList\obj\Debug\netcoreapp3.1\LList.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\LList\LList\obj\Debug\netcoreapp3.1\LList.dll
+C:\Users\USER\source\repos\LList\LList\obj\Debug\netcoreapp3.1\LList.pdb
+C:\Users\USER\source\repos\LList\LList\obj\Debug\netcoreapp3.1\LList.genruntimeconfig.cache

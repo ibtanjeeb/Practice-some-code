@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Jumpsearch1\Jumpsearch1\bin\Debug\netcoreapp3.1\Jumpsearch1.exe
+C:\Users\USER\source\repos\Jumpsearch1\Jumpsearch1\bin\Debug\netcoreapp3.1\Jumpsearch1.deps.json
+C:\Users\USER\source\repos\Jumpsearch1\Jumpsearch1\bin\Debug\netcoreapp3.1\Jumpsearch1.runtimeconfig.json
+C:\Users\USER\source\repos\Jumpsearch1\Jumpsearch1\bin\Debug\netcoreapp3.1\Jumpsearch1.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Jumpsearch1\Jumpsearch1\bin\Debug\netcoreapp3.1\Jumpsearch1.dll
+C:\Users\USER\source\repos\Jumpsearch1\Jumpsearch1\bin\Debug\netcoreapp3.1\Jumpsearch1.pdb
+C:\Users\USER\source\repos\Jumpsearch1\Jumpsearch1\obj\Debug\netcoreapp3.1\Jumpsearch1.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Jumpsearch1\Jumpsearch1\obj\Debug\netcoreapp3.1\Jumpsearch1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Jumpsearch1\Jumpsearch1\obj\Debug\netcoreapp3.1\Jumpsearch1.AssemblyInfo.cs
+C:\Users\USER\source\repos\Jumpsearch1\Jumpsearch1\obj\Debug\netcoreapp3.1\Jumpsearch1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Jumpsearch1\Jumpsearch1\obj\Debug\netcoreapp3.1\Jumpsearch1.dll
+C:\Users\USER\source\repos\Jumpsearch1\Jumpsearch1\obj\Debug\netcoreapp3.1\Jumpsearch1.pdb
+C:\Users\USER\source\repos\Jumpsearch1\Jumpsearch1\obj\Debug\netcoreapp3.1\Jumpsearch1.genruntimeconfig.cache

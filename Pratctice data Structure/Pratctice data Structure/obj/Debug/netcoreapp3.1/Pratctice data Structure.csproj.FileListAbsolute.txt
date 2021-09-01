@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Pratctice data Structure\Pratctice data Structure\bin\Debug\netcoreapp3.1\Pratctice data Structure.exe
+C:\Users\USER\source\repos\Pratctice data Structure\Pratctice data Structure\bin\Debug\netcoreapp3.1\Pratctice data Structure.deps.json
+C:\Users\USER\source\repos\Pratctice data Structure\Pratctice data Structure\bin\Debug\netcoreapp3.1\Pratctice data Structure.runtimeconfig.json
+C:\Users\USER\source\repos\Pratctice data Structure\Pratctice data Structure\bin\Debug\netcoreapp3.1\Pratctice data Structure.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Pratctice data Structure\Pratctice data Structure\bin\Debug\netcoreapp3.1\Pratctice data Structure.dll
+C:\Users\USER\source\repos\Pratctice data Structure\Pratctice data Structure\bin\Debug\netcoreapp3.1\Pratctice data Structure.pdb
+C:\Users\USER\source\repos\Pratctice data Structure\Pratctice data Structure\obj\Debug\netcoreapp3.1\Pratctice data Structure.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Pratctice data Structure\Pratctice data Structure\obj\Debug\netcoreapp3.1\Pratctice data Structure.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Pratctice data Structure\Pratctice data Structure\obj\Debug\netcoreapp3.1\Pratctice data Structure.AssemblyInfo.cs
+C:\Users\USER\source\repos\Pratctice data Structure\Pratctice data Structure\obj\Debug\netcoreapp3.1\Pratctice data Structure.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Pratctice data Structure\Pratctice data Structure\obj\Debug\netcoreapp3.1\Pratctice data Structure.dll
+C:\Users\USER\source\repos\Pratctice data Structure\Pratctice data Structure\obj\Debug\netcoreapp3.1\Pratctice data Structure.pdb
+C:\Users\USER\source\repos\Pratctice data Structure\Pratctice data Structure\obj\Debug\netcoreapp3.1\Pratctice data Structure.genruntimeconfig.cache

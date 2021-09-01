@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\Practices\Practices\bin\Debug\netcoreapp3.1\Practices.exe
+C:\Users\USER\source\repos\Practices\Practices\bin\Debug\netcoreapp3.1\Practices.deps.json
+C:\Users\USER\source\repos\Practices\Practices\bin\Debug\netcoreapp3.1\Practices.runtimeconfig.json
+C:\Users\USER\source\repos\Practices\Practices\bin\Debug\netcoreapp3.1\Practices.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Practices\Practices\bin\Debug\netcoreapp3.1\Practices.dll
+C:\Users\USER\source\repos\Practices\Practices\bin\Debug\netcoreapp3.1\Practices.pdb
+C:\Users\USER\source\repos\Practices\Practices\obj\Debug\netcoreapp3.1\Practices.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Practices\Practices\obj\Debug\netcoreapp3.1\Practices.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Practices\Practices\obj\Debug\netcoreapp3.1\Practices.AssemblyInfo.cs
+C:\Users\USER\source\repos\Practices\Practices\obj\Debug\netcoreapp3.1\Practices.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Practices\Practices\obj\Debug\netcoreapp3.1\Practices.dll
+C:\Users\USER\source\repos\Practices\Practices\obj\Debug\netcoreapp3.1\Practices.pdb
+C:\Users\USER\source\repos\Practices\Practices\obj\Debug\netcoreapp3.1\Practices.genruntimeconfig.cache

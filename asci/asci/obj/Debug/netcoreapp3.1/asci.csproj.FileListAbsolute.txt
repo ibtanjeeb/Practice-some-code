@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\asci\asci\bin\Debug\netcoreapp3.1\asci.exe
+C:\Users\USER\source\repos\asci\asci\bin\Debug\netcoreapp3.1\asci.deps.json
+C:\Users\USER\source\repos\asci\asci\bin\Debug\netcoreapp3.1\asci.runtimeconfig.json
+C:\Users\USER\source\repos\asci\asci\bin\Debug\netcoreapp3.1\asci.runtimeconfig.dev.json
+C:\Users\USER\source\repos\asci\asci\bin\Debug\netcoreapp3.1\asci.dll
+C:\Users\USER\source\repos\asci\asci\bin\Debug\netcoreapp3.1\asci.pdb
+C:\Users\USER\source\repos\asci\asci\obj\Debug\netcoreapp3.1\asci.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\asci\asci\obj\Debug\netcoreapp3.1\asci.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\asci\asci\obj\Debug\netcoreapp3.1\asci.AssemblyInfo.cs
+C:\Users\USER\source\repos\asci\asci\obj\Debug\netcoreapp3.1\asci.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\asci\asci\obj\Debug\netcoreapp3.1\asci.dll
+C:\Users\USER\source\repos\asci\asci\obj\Debug\netcoreapp3.1\asci.pdb
+C:\Users\USER\source\repos\asci\asci\obj\Debug\netcoreapp3.1\asci.genruntimeconfig.cache

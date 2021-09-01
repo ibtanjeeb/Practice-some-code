@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Dynamicbinding\Dynamicbinding\bin\Debug\netcoreapp3.1\Dynamicbinding.exe
+C:\Users\USER\source\repos\Dynamicbinding\Dynamicbinding\bin\Debug\netcoreapp3.1\Dynamicbinding.deps.json
+C:\Users\USER\source\repos\Dynamicbinding\Dynamicbinding\bin\Debug\netcoreapp3.1\Dynamicbinding.runtimeconfig.json
+C:\Users\USER\source\repos\Dynamicbinding\Dynamicbinding\bin\Debug\netcoreapp3.1\Dynamicbinding.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Dynamicbinding\Dynamicbinding\bin\Debug\netcoreapp3.1\Dynamicbinding.dll
+C:\Users\USER\source\repos\Dynamicbinding\Dynamicbinding\bin\Debug\netcoreapp3.1\Dynamicbinding.pdb
+C:\Users\USER\source\repos\Dynamicbinding\Dynamicbinding\obj\Debug\netcoreapp3.1\Dynamicbinding.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Dynamicbinding\Dynamicbinding\obj\Debug\netcoreapp3.1\Dynamicbinding.AssemblyInfo.cs
+C:\Users\USER\source\repos\Dynamicbinding\Dynamicbinding\obj\Debug\netcoreapp3.1\Dynamicbinding.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Dynamicbinding\Dynamicbinding\obj\Debug\netcoreapp3.1\Dynamicbinding.dll
+C:\Users\USER\source\repos\Dynamicbinding\Dynamicbinding\obj\Debug\netcoreapp3.1\Dynamicbinding.pdb
+C:\Users\USER\source\repos\Dynamicbinding\Dynamicbinding\obj\Debug\netcoreapp3.1\Dynamicbinding.genruntimeconfig.cache
