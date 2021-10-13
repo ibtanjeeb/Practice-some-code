@@ -1,0 +1,20 @@
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\bin\Debug\netcoreapp3.1\SqlPratctice class 16.exe
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\bin\Debug\netcoreapp3.1\SqlPratctice class 16.deps.json
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\bin\Debug\netcoreapp3.1\SqlPratctice class 16.runtimeconfig.json
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\bin\Debug\netcoreapp3.1\SqlPratctice class 16.runtimeconfig.dev.json
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\bin\Debug\netcoreapp3.1\SqlPratctice class 16.dll
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\bin\Debug\netcoreapp3.1\SqlPratctice class 16.pdb
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\obj\Debug\netcoreapp3.1\SqlPratctice class 16.csprojAssemblyReference.cache
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\obj\Debug\netcoreapp3.1\SqlPratctice class 16.AssemblyInfoInputs.cache
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\obj\Debug\netcoreapp3.1\SqlPratctice class 16.AssemblyInfo.cs
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\obj\Debug\netcoreapp3.1\SqlPratctice class 16.csproj.CoreCompileInputs.cache
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\obj\Debug\netcoreapp3.1\SqlPratctice class 16.csproj.CopyComplete
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\obj\Debug\netcoreapp3.1\SqlPratctice class 16.dll
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\obj\Debug\netcoreapp3.1\SqlPratctice class 16.pdb
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\obj\Debug\netcoreapp3.1\SqlPratctice class 16.genruntimeconfig.cache
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\Practice Code\Practice-some-code\SqlPratctice class 16\SqlPratctice class 16\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

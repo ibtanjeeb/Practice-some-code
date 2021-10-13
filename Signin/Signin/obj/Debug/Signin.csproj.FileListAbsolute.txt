@@ -1,0 +1,12 @@
+H:\Practice Code\Practice-some-code\Signin\Signin\bin\Debug\Database.mdf
+H:\Practice Code\Practice-some-code\Signin\Signin\bin\Debug\Database_log.ldf
+H:\Practice Code\Practice-some-code\Signin\Signin\bin\Debug\Signin.exe.config
+H:\Practice Code\Practice-some-code\Signin\Signin\bin\Debug\Signin.exe
+H:\Practice Code\Practice-some-code\Signin\Signin\bin\Debug\Signin.pdb
+H:\Practice Code\Practice-some-code\Signin\Signin\obj\Debug\Signin.csprojAssemblyReference.cache
+H:\Practice Code\Practice-some-code\Signin\Signin\obj\Debug\Signin.Properties.Resources.resources
+H:\Practice Code\Practice-some-code\Signin\Signin\obj\Debug\Signin.Registration.resources
+H:\Practice Code\Practice-some-code\Signin\Signin\obj\Debug\Signin.csproj.GenerateResource.cache
+H:\Practice Code\Practice-some-code\Signin\Signin\obj\Debug\Signin.csproj.CoreCompileInputs.cache
+H:\Practice Code\Practice-some-code\Signin\Signin\obj\Debug\Signin.exe
+H:\Practice Code\Practice-some-code\Signin\Signin\obj\Debug\Signin.pdb
